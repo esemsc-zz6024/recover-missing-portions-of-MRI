@@ -5,7 +5,7 @@ The goal of project is to solve an imputation problem: we will create a neural n
 
 This is an important problem in magnetic resonance imaging (MRI), where patient scans are often limited to a few areas to avoid lengthy scanning times.
 
-In particular, we are going to focus on images of human heads. We have managed to gain access to one hundred images of patient's heads but, unfortunately, these images have a significant portion of missing information. Your goal during the assessment is to design a neural network that can recover these missing portions.
+In particular, we are going to focus on images of human heads. We have managed to gain access to one hundred images of patient's heads but, unfortunately, these images have a significant portion of missing information. My goal during the project is to design a neural network that can recover these missing portions.
 
 This project do not have access to the labels for the images we want to recover, so I had a bit creative to obtain a workable dataset on which to train our neural network.
 
