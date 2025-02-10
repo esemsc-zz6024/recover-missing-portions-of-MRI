@@ -11,7 +11,7 @@ This project do not have access to the labels for the images we want to recover,
 
 The corrupted images that we want to recover are contained in the numpy file `test_set.npy` of this repository. The file contains 100 patient images with a size of 64x64 pixels.
 
-The architecture that you design in this assessment should use the artificially-generated dataset in order to recover the missing information in the images contained in `test_set.npy`.
+The architecture that I design in this project should use the artificially-generated dataset in order to recover the missing information in the images contained in `test_set.npy`.
 
 ## Dataset
 This project have access to a generative model that has been trained to produce realistic-looking MRI images of patient's heads. So I used the provided image-generation network to create a dataset of brain images as the training dataset which is called 'train_data_3000.pt'. This training dataset includes 3000 samples.
