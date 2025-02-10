@@ -20,7 +20,7 @@ We have access to a generative model that has been trained to produce realistic-
 Unet combined with multi-head self-attention mechanism
 
 ## Model performance
-| **    ** | **LOSS** | **SSIM** |
+| **Dataset** | **LOSS** | **SSIM** |
 | :------------------ | :---: | :---: |
 | *training* | 0.0003 | 0.9568 |
 | *val* | 0.0004 | 0.9507 |
