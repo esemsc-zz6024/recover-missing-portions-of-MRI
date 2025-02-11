@@ -23,7 +23,7 @@ Unet combined with multi-head self-attention mechanism
 | **Dataset** | **LOSS** | **SSIM** |
 | :------------------ | :---: | :---: |
 | *training* | 0.0003 | 0.9568 |
-| *val* | 0.0004 | 0.9507 |
+| *validation* | 0.0004 | 0.9507 |
 
 
 
